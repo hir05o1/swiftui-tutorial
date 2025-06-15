@@ -187,11 +187,12 @@
 				};
 			};
 			buildConfigurationList = 45EB32802DFE6392001A3C65 /* Build configuration list for PBXProject "creating-conbining-view" */;
-			developmentRegion = en;
+			developmentRegion = ja;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = 45EB327C2DFE6392001A3C65;
 			minimizedProjectReferenceProxies = 1;
