@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct creating_conbining_viewApp: App {
+    @State private var modelData = ModelData()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environment(modelData)
         }
     }
 }
